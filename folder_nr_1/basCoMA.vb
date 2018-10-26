@@ -1,3 +1,5 @@
+' zmiana z dnia 25 pazdziernika - godzina 13:00
+
 Module basCoMA
 
     Public kontrola_listy_utworow_COMA_dostepna As Boolean = False
